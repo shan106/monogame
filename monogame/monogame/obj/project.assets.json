@@ -7380,11 +7380,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shanq\\OneDrive - AP Hogeschool Antwerpen\\Documenten\\Github\\monogame\\monogame\\monogame.csproj",
+      "projectUniqueName": "C:\\Users\\shanq\\OneDrive - AP Hogeschool Antwerpen\\Documenten\\Github\\monogame\\monogame\\monogame\\monogame.csproj",
       "projectName": "monogame",
-      "projectPath": "C:\\Users\\shanq\\OneDrive - AP Hogeschool Antwerpen\\Documenten\\Github\\monogame\\monogame\\monogame.csproj",
+      "projectPath": "C:\\Users\\shanq\\OneDrive - AP Hogeschool Antwerpen\\Documenten\\Github\\monogame\\monogame\\monogame\\monogame.csproj",
       "packagesPath": "C:\\Users\\shanq\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shanq\\OneDrive - AP Hogeschool Antwerpen\\Documenten\\Github\\monogame\\monogame\\obj\\",
+      "outputPath": "C:\\Users\\shanq\\OneDrive - AP Hogeschool Antwerpen\\Documenten\\Github\\monogame\\monogame\\monogame\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

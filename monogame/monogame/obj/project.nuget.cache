@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4s47QxdSphEabJv1J6JHshnSEdETnX+Sx3Kra6mKAvxyXd4hFW4YGJwOlEowcqghpFSDWT1TWugxvtCAED1TDQ==",
+  "dgSpecHash": "jIdAi3/t4rSgFfOsp8G+aB1ajgZqOwooEH6XTlIkmZIfGfXXukRaVL5jitZf9zVNsPX+J47xvWzIj1X+KQt2ZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\shanq\\OneDrive - AP Hogeschool Antwerpen\\Documenten\\Github\\monogame\\monogame\\monogame.csproj",
+  "projectFilePath": "C:\\Users\\shanq\\OneDrive - AP Hogeschool Antwerpen\\Documenten\\Github\\monogame\\monogame\\monogame\\monogame.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shanq\\.nuget\\packages\\libuv\\1.9.1\\libuv.1.9.1.nupkg.sha512",
     "C:\\Users\\shanq\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\1.1.0\\microsoft.codeanalysis.analyzers.1.1.0.nupkg.sha512",
